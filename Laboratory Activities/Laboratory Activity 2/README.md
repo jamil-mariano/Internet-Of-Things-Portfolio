@@ -1,4 +1,4 @@
-### Laboratory Activity #2: Working With Analog Signals
+# Laboratory Activity #2: Working With Analog Signals
 
 ## Overview
 
