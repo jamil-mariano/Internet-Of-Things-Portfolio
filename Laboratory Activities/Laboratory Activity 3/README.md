@@ -23,7 +23,7 @@ This activity focuses on integrating environmental sensors to create a basic fir
 * Buzzer
 
 
-* Resistors
+* 2 Resistors
 
 
 
