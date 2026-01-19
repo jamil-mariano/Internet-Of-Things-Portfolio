@@ -54,3 +54,7 @@ Dellosa, Keren G. <br>
 Mariano, Jamil S. <br>
 Mendez, Rachelle Yazmhine C. <br>
 Pascual, Audric P. <br>
+
+## Reference:
+[Prompts used to transact with your selected Generative AI](https://docs.google.com/document/d/1MN57WclmEDDDeA7Bta_moRSLxrkAH41zfC28ILxsMrw/edit?tab=t.0)
+[Transaction ID or the link of the conversation](https://gemini.google.com/share/3e477ec98a37)
