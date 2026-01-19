@@ -53,5 +53,5 @@ Pascual, Audric P. <br>
 
 
 ### Reference
-[Prompts used to transact with Generative AI](https://docs.google.com/document/d/1Fe5OqBTM9iATZMIurfX4jmZpX0Domhsl6qaz1dQoqu0/edit?tab=t.0) 
+[Prompts used to transact with Generative AI](https://docs.google.com/document/d/1Fe5OqBTM9iATZMIurfX4jmZpX0Domhsl6qaz1dQoqu0/edit?tab=t.0) <br>
 [Transaction ID or the link of the conversation](https://gemini.google.com/share/4a584b09de8c)
