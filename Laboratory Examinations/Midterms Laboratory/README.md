@@ -53,8 +53,8 @@ Every second, the system reads the light intensity and maps it to a 0-100% scale
 
 ## Contributors:
 
-Arrojo, Betina B.
-Mariano, Jamil S.
-Mendez, Rachelle Yazmhine C.
-Osit, Eduardo
-Pascual, Audric P.
+Arrojo, Betina B. <br>
+Mariano, Jamil S. <br>
+Mendez, Rachelle Yazmhine C. <br>
+Osit, Eduardo <br>
+Pascual, Audric P. <br>
