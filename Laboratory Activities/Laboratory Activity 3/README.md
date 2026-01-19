@@ -60,3 +60,7 @@ Arrojo, Betina B.
 
 
 Mariano, Jamil S.
+
+### Reference
+[Link](https://github.com/jamil-mariano/Internet-Of-Things-Portfolio/blob/main/Laboratory%20Activities/Laboratory%20Activity%203/Act3-Reference.pdf) 
+
