@@ -14,15 +14,16 @@ This activity focuses on integrating environmental sensors to create a basic fir
 
 
 
-* 1 Photoresistor (LDR) 
+* 1 Photoresistor
 
 
 
-* 1 Red LED (or Buzzer) 
+* 1 Red LED 
+
+* Buzzer
 
 
-
-* Resistors (10kΩ for sensors, 220Ω for LED) 
+* Resistors
 
 
 
