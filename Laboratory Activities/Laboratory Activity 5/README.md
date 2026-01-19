@@ -43,10 +43,10 @@ The Arduino code is designed to listen for incoming letters from the computer. I
 The Python script creates a simple menu on the computer screen. It connects to the Arduino's specific port. When the user types a choice from the menu, the script sends that letter directly to the Arduino. The script also includes a "clean screen" feature, which wipes the text after every command to keep the interface looking neat and organized.
 
 ## Contributors:
-Magma, John Harold R.
-Ambong, Jemuel Chris N.
-Arrojo, Betina B.
-Dellosa, Keren G.
-Mariano, Jamil S.
-Mendez, Rachelle Yazmhine C.
-Pascual, Audric P.
+Magma, John Harold R. <br>
+Ambong, Jemuel Chris N. <br>
+Arrojo, Betina B. <br>
+Dellosa, Keren G. <br>
+Mariano, Jamil S. <br>
+Mendez, Rachelle Yazmhine C. <br>
+Pascual, Audric P. <br>
