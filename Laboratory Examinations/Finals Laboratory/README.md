@@ -37,5 +37,6 @@ Rachelle Yazmhine C. Mendez <br>
 Audric P. Pascual <br>
 
 ## Reference
+Model used to generate the content: Gemini 3 Pro <br>
 [Prompts used to transact with your selected Generative AI](https://docs.google.com/document/d/1Ph4f8GnvtJRS32F7EDq53SKSUNrVf3dXvfsSIAUVcg0/edit?tab=t.0) <br>
 [Transaction ID or the link of the conversation](https://gemini.google.com/share/cd19b5a6c23a)
