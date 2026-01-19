@@ -1,4 +1,4 @@
-# Laboratory Activity #4: Serial Communication Control
+# Laboratory Activity #4: Arduino Serial Connection
 
 ## Overview
 
