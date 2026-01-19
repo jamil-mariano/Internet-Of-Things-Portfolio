@@ -10,7 +10,7 @@ This activity implements an intelligent lighting control system that monitors en
 
 
 
-* 1 Photoresistor (Light Sensor) 
+* 1 Photoresistor
 
 
 
@@ -18,11 +18,11 @@ This activity implements an intelligent lighting control system that monitors en
 
 
 
-* 3 Resistors (220Ω for LEDs) 
+* 3 Resistors
 
 
 
-* 1 Resistor (10kΩ for Photoresistor) 
+* 1 Resistor
 
 
 
@@ -53,14 +53,8 @@ Every second, the system reads the light intensity and maps it to a 0-100% scale
 
 ## Contributors:
 
-Mendez, Rachelle Yazmhine C. 
-
-
-
-
-Arrojo, Betina B. 
-
-
-
-
+Arrojo, Betina B.
 Mariano, Jamil S.
+Mendez, Rachelle Yazmhine C.
+Osit, Eduardo
+Pascual, Audric P.
