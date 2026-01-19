@@ -20,3 +20,6 @@ Once the first phase is complete, the counter resets to the beginning of the arr
 Mendez, Rachelle Yazmhine C. <br>
 Arrojo, Betina B. <br>
 Mariano, Jamil S.
+
+### Reference
+[link](https://github.com/jamil-mariano/Internet-Of-Things-Portfolio/blob/main/Laboratory%20Activities/Laboratory%20Activity%201/Act1-References.pdf) 
