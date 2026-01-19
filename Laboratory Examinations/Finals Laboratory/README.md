@@ -1,9 +1,9 @@
-#Finals Laboratory Exam
+# Finals Laboratory Exam
 
-##Overview
+## Overview
 This activity demonstrates a fundamental IoT concept: bridging a physical hardware trigger to a network API. The system uses an Arduino as a physical input device (a button) that communicates with a computer via Serial. A Python script running on the computer acts as a "gateway," translating that serial signal into an HTTP web request that is sent to a remote server.
 
-##Hardware Requirements
+## Hardware Requirements
 * 1 Arduino Uno
 
 
@@ -27,7 +27,7 @@ Python IoT Client (The Gateway)
 
 The Python script runs on the computer and continuously listens to the Serial port. When it receives the Group Number from the Arduino, it immediately constructs a web URL (e.g., http://.../led/group/2/toggle) and sends an HTTP GET request to that address. This allows a simple physical button press to trigger complex web-based actions on a remote server.
 
-##Contributors:
+## Contributors:
 John Harold R. Magma
 Jemuel Chris N. Ambong
 Betina B. Arrojo
