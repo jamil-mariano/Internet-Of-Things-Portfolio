@@ -20,7 +20,7 @@ This activity focuses on integrating environmental sensors to create a basic fir
 
 * 1 Red LED 
 
-* Buzzer
+* 1 Buzzer
 
 
 * 2 Resistors
