@@ -28,10 +28,10 @@ Python IoT Client (The Gateway)
 The Python script runs on the computer and continuously listens to the Serial port. When it receives the Group Number from the Arduino, it immediately constructs a web URL (e.g., http://.../led/group/2/toggle) and sends an HTTP GET request to that address. This allows a simple physical button press to trigger complex web-based actions on a remote server.
 
 ## Contributors:
-John Harold R. Magma
-Jemuel Chris N. Ambong
-Betina B. Arrojo
-Keren G. Dellosa
-Jamil S. Mariano
-Rachelle Yazmhine C. Mendez
-Audric P. Pascual
+John Harold R. Magma <br>
+Jemuel Chris N. Ambong <br>
+Betina B. Arrojo <br>
+Keren G. Dellosa <br>
+Jamil S. Mariano <br>
+Rachelle Yazmhine C. Mendez <br>
+Audric P. Pascual <br>
