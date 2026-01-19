@@ -47,8 +47,6 @@ The Arduino acts as the execution unit. It listens for single-character commands
 The Python script functions as a bridge between the user and the hardware. It runs a local web server using FastAPI that defines specific "routes" or URLs (e.g., `/led/red`). When a user visits one of these URLs, the script intercepts the request and sends the corresponding command to the Arduino via the USB serial connection. It also runs a background task to listen for and display any messages coming from the Arduino, such as button presses.
 
 ## Contributors:
-
-## Contributors:
 Magma, John Harold R. <br>
 Ambong, Jemuel Chris N. <br>
 Arrojo, Betina B. <br>
