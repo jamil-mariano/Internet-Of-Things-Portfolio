@@ -1,4 +1,4 @@
-# Laboratory Activity #3: Fire Sensor Implementation
+# Laboratory Activity #3: Working with Sensors
 
 ## Overview
 
